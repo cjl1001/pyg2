@@ -9,7 +9,6 @@
 		<module>pyg-cart/api</module>
 		<module>pyg-cart/service</module>
 		<module>pyg-pojo</module>
-
 	</modules>
 
 	<!-- 集中定义依赖版本号 -->
